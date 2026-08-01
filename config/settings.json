@@ -1,0 +1,7 @@
+{
+    "hotkey": "ctrl+shift+m",
+    "startup": true,
+    "notification": false,
+    "theme": "dark",
+    "language": "auto"
+}
